@@ -54,7 +54,7 @@ Select the default option for handling line endings
 
 ![screen-4](http://curriculum-content.s3.amazonaws.com/data-science/screen-4.png)
 
-And use MinTTY as the default terminal emulator
+And use MinTTY as the default terminal emulator kb
 
 ![screen-5](http://curriculum-content.s3.amazonaws.com/data-science/screen-5.png)
 
