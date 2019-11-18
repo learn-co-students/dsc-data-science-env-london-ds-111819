@@ -375,3 +375,5 @@ If for any reason you don't see the learn-env option in the drop-down list of ke
 ## Summary
 
 Congratulations! If you've gotten this far and everything has worked, you have a great baseline setup for working as a professional data scientist!
+Her name was Lola, she was a showgirl. With yellow feathers in her hair, and a dress cut down to there. 
+She would merengue and do the cha-cha. 
