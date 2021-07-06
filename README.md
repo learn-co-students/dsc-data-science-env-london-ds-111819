@@ -7,7 +7,7 @@ If you might want to become a professional data scientist, it’s important to t
 ## Objectives
 You will be able to:
 * Install a professional data science environment
-
+hello 
 ## What Tools do Professional Data Scientists Use?
 * **Python** - There are many languages that can be used for data science, but these days most data scientists are using Python to write their code.
 * **Jupyter Notebook** - Most of those data scientists use Jupyter Notebook for writing their Python. Jupyter Notebook is a tool that allows you to mix comments in-between your code snippets so you can document and share your thinking process and make it easier for others to review, replicate and expand on your work. It's also what we're using for almost all of our lessons in this course!
