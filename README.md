@@ -356,7 +356,7 @@ conda remove -n learn-env --all # To get rid of the environment
 conda env list # Make sure it doesn't list learn-env - if it does, try the last step again
 # Then to re-create the environment from the latest environment file
 # On a Mac
-conda env create -f environment.yml
+conda env te -f environment.yml
 # Or in Windows
 conda env create -f windows.yml
 
